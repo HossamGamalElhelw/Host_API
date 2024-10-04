@@ -3,13 +3,13 @@
         "id": 1,
         "title": "Mikado Side Chair",
         "price": 109.95,
-        "image": "./Mikado Side 1.jpg"
+        "image": "https://github.com/HossamGamalElhelw/Host_API/blob/main/Mikado%20Side%201.jpg"
     },
     {
         "id": 2,
         "title": "Mikado Amrchair",
         "price": 22.3,
-        "image": "./Mikado Armchair 2.jpg"
+        "image": "https://github.com/HossamGamalElhelw/Host_API/blob/main/Mikado%20Armchair%202.jpg"
     },
     {
         "id": 3,
