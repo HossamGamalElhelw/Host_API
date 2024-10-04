@@ -3,78 +3,78 @@
         "id": 1,
         "title": "Mikado Side Chair",
         "price": 109.95,
-        "image": "Mikado Side 1.jpg"
+        "image": "./Mikado Side 1.jpg"
     },
     {
         "id": 2,
         "title": "Mikado Amrchair",
         "price": 22.3,
-        "image": "Mikado Armchair 2.jpg"
+        "image": "./Mikado Armchair 2.jpg"
     },
     {
         "id": 3,
         "title": "Panton Chair",
         "price": 55.99,
-        "image": "Panton 3.jpg"
+        "image": "./Panton 3.jpg"
     },
     {
         "id": 4,
         "title": "Panton Chair Classic",
         "price": 15.99,
-        "image": "Panton 4.jpg"
+        "image": "./Panton 4.jpg"
     },
     {
         "id": 5,
         "title": "Panton Junior",
         "price": 20.99,
-        "image": "Panton 5.jpg"
+        "image": "./Panton 5.jpg"
     },
     {
         "id": 6,
         "title": "Standard",
         "price": 30.99,
-        "image": "Standard 6.jpg"
+        "image": "./Standard 6.jpg"
     },
     {
         "id": 7,
         "title": "Standard SP",
         "price": 49.99,
-        "image": "Standard SP 7.jpg"
+        "image": "./Standard SP 7.jpg"
     },
     {
         "id": 8,
         "title": "Tout Bois",
         "price": 98.50,
-        "image": "Tout Bois 8.jpg"
+        "image": "./Tout Bois 8.jpg"
     },
     {
         "id": 9,
         "title": "Fauteuil",
         "price": 32.50,
-        "image": "Fauteuil 9.jpg"
+        "image": "./Fauteuil 9.jpg"
     },
     {
         "id": 10,
         "title": "Tout Bois",
         "price": 14.70,
-        "image": "10.jpg"
+        "image": "./10.jpg"
     },
     {
         "id": 11,
         "title": "Tout Bois",
         "price": 15.64,
-        "image": "11.jpg"
+        "image": "./11.jpg"
     },
     {
         "id": 12,
         "title": "Tout Bois",
         "price": 80.59,
-        "image": "12.jpg"
+        "image": "./12.jpg"
     },
     {
         "id": 13,
         "title": "Tout Bois",
         "price": 90.99,
-        "image": "13.jpg"
+        "image": "./13.jpg"
     }
 ]
